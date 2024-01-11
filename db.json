@@ -3,24 +3,24 @@
     {
       "id": 1,
       "type": "Personal Computers",
-      "mac": "00-B0-D0-63-C2-33"
+      "mac": "00-B0-D0-63-C2-33",
       "model": "MacBook Pro (13-inch, 2020)",
-      "ran-id"" "ran-id-1"
+      "ran-id": "ran-id-1"
       
     },
     {
       "id": 2,
       "type": "Personal Computers",
-      "mac": "00-B0-D0-63-C2-66"
+      "mac": "00-B0-D0-63-C2-66",
       "model": "Intel device",
-      "ran-id"" "ran-id-2"
+      "ran-id": "ran-id-2"
     },
     {
       "id": 3,
       "type": "Server",
-      "mac": "00-B0-D0-63-C2-99"
+      "mac": "00-B0-D0-63-C2-99",
       "model": "Hewlett Packard",
-      "ran-id"" "ran-id-3"
+      "ran-id": "ran-id-3"
     }
   ]
 }
