@@ -21,5 +21,25 @@
       "model": "Hewlett Packard",
       "ran-id": "ran-id-3"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Joe Dow",
+      "email": "joe.dow@narnia.com",
+      "hobby": "bungee jumping"
+    },
+    {
+      "id": 2,
+      "name": "Jane Dow",
+      "email": "jane.dow@narnia.com",
+      "hobby": "swimming in ice"
+    },
+    {
+      "id": 2,
+      "name": "Peter Pan",
+      "email": "peter.pan@neverland.com",
+      "hobby": "flying"
+    }
   ]
 }
